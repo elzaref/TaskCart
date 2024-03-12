@@ -1,0 +1,23 @@
+
+Back end
+1- Register normal
+2- Register as admin ( for fast operation)
+3- Login 
+4- CRUD for Brand
+5- CRUD for Categories
+6- CRUD for Products
+
+Front
+1- Login page
+2- Register Page
+3- Create page for Brand
+4- Get all - update - delete Brand
+5- Create page for Category
+6- Get all - update - delete Category
+7- Create page for Product
+8- Get all - update - delete Product
+
+notes:
+All these with using authorization through token.
+Data base using Code first
+
