@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+KHp1Kzi3i/4OotoqY2r1TpgObpjRVK+81nOQQ1aj2tkr0zj/8rqx52RH4zkEiNNt1Qn0QAjkJowfgw+FvH6jQ==",
+  "dgSpecHash": "NZXX7KseIQTHQyyoW5cVotET5c5BcJBlGZE+/eCnr3tq8T5CABADPixsDspXe9cuHnp7qWoc77Ccy2sWuR5ZzA==",
   "success": true,
-  "projectFilePath": "D:\\programs\\CardTask\\CardBackEnd\\CardTask\\CartTask\\CartTask.csproj",
+  "projectFilePath": "D:\\programs\\CardTask\\CartBackEnd\\CartTask\\CartTask\\CartTask.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

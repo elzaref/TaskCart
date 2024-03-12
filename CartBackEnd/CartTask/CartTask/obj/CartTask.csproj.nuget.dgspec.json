@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\programs\\CardTask\\CardBackEnd\\CardTask\\CartTask\\CartTask.csproj": {}
+    "D:\\programs\\CardTask\\CartBackEnd\\CartTask\\CartTask\\CartTask.csproj": {}
   },
   "projects": {
-    "D:\\programs\\CardTask\\CardBackEnd\\CardTask\\CartTask\\CartTask.csproj": {
+    "D:\\programs\\CardTask\\CartBackEnd\\CartTask\\CartTask\\CartTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\programs\\CardTask\\CardBackEnd\\CardTask\\CartTask\\CartTask.csproj",
+        "projectUniqueName": "D:\\programs\\CardTask\\CartBackEnd\\CartTask\\CartTask\\CartTask.csproj",
         "projectName": "CartTask",
-        "projectPath": "D:\\programs\\CardTask\\CardBackEnd\\CardTask\\CartTask\\CartTask.csproj",
+        "projectPath": "D:\\programs\\CardTask\\CartBackEnd\\CartTask\\CartTask\\CartTask.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\programs\\CardTask\\CardBackEnd\\CardTask\\CartTask\\obj\\",
+        "outputPath": "D:\\programs\\CardTask\\CartBackEnd\\CartTask\\CartTask\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
